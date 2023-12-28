@@ -56,7 +56,7 @@ for (var iz = 0;iz<20;iz++)
 {
     var dx = Math.random()*5;
     var dy = Math.random()*5;
-    var r = (Math.random()*innerHeight/5) + 20;
+    var r = (Math.random()*innerWidth/5) + 20;
     var red = Math.random()*250;
     var blue = Math.random()*250;
     var gren = Math.random()*250;
